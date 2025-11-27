@@ -1,10 +1,3 @@
-//
-//  Untitled.swift
-//  iOS5-Zhaboklitskaya-Pan
-//
-//  Created by Yudan on 2025/11/27.
-//
-
 # Address Book App (SwiftUI · MVVM)
 
 A simple iOS Address Book application built using SwiftUI and the MVVM architecture pattern.
