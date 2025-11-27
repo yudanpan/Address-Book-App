@@ -22,6 +22,7 @@
 /* Begin PBXFileReference section */
 		46617EE82D26E93000741B5E /* iOS5-Zhaboklitskaya-Pan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS5-Zhaboklitskaya-Pan.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46C0F1232ED8398D0000CBC4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		46C0F1302ED87CB20000CBC4 /* MIT-License.md */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MIT-License.md"; sourceTree = "<group>"; };
 		46FE50572D304BBC00DF081A /* AddFriendsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFriendsView.swift; sourceTree = "<group>"; };
 		83ABA7D32D2D28D300799E1F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		83ABA7D52D2D28D300799E1F /* AddCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCardView.swift; sourceTree = "<group>"; };
@@ -59,6 +60,7 @@
 				83ABA7DF2D2D28D300799E1F /* iOS5-Zhaboklitskaya-Pan */,
 				46617EE92D26E93000741B5E /* Products */,
 				46C0F1232ED8398D0000CBC4 /* README.md */,
+				46C0F1302ED87CB20000CBC4 /* MIT-License.md */,
 			);
 			sourceTree = "<group>";
 		};
